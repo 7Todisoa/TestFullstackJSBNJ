@@ -41,4 +41,4 @@ Bonus :
 - Ajouter une notification utilisateur (succès/erreur)
 
 
-# pot_de_passe_factice : 1234
+# Mot_de_passe_factice : 1234

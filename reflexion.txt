@@ -1,0 +1,13 @@
+Améliorer la maintenabilité de l’API :
+    Modulariser les routes et controllers pour éviter les fichiers trop longs
+    Ajouter des tests unitaires avec Jest ou Supertest
+
+Assurer la scalabilité du frontend :
+    Mettre en place une architecture par feature ou domaine
+    Utiliser un gestionnaire de requêtes comme React Query pour centraliser les appels
+    Adopter un state management adapté (React Context ou Zustand/Redux pour les cas complexes)
+
+Garantir la sécurité globale :
+    Ajouter un système d’authentification/autorisation (JWT ou OAuth)
+    Sécuriser les inputs (validation backend + frontend)
+    Utiliser des en-têtes de sécurité avec Helmet côté backend et désactiver les infos sensibles

@@ -1,0 +1,16 @@
+{
+  "name": "testfullstackjsbnj",
+  "version": "1.0.0",
+  "description": "Contexte\r Vous travaillez sur une application de gestion de tâches collaboratives. L’objectif de ce test est d’implémenter un module simple permettant de créer, afficher et supprimer des tâches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1"
+  }
+}

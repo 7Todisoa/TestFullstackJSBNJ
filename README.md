@@ -39,3 +39,6 @@ Bonus :
 - Utilisation de TypeScript
 - Utilisation de React Query ou SWR pour la gestion des requêtes
 - Ajouter une notification utilisateur (succès/erreur)
+
+
+# pot_de_passe_factice : 1234
